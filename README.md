@@ -14,4 +14,4 @@ To run a default 13 gold atom experiment, use the following command:
 ---
 
 # Note
-This is a modified and adapted version of the RL framework from [**RL_NP**](https://github.com/Jotels/RL_NP) J. Chem. Inf. Model. 2023, 63, 12, 3731–3741. We thank the authors for making the code available on github.
+This is a modified and adapted version of the RL framework from [**RL_NP**](https://github.com/Jotels/RL_NP) (J. Chem. Inf. Model. 2023, 63, 12, 3731–3741). We thank the authors for making the code available on github.
