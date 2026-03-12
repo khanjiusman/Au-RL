@@ -10,3 +10,8 @@ To run a default 13 gold atom experiment, use the following command:
     
     Parameters for all experiments are specified in the appendix to the manuscript.
 # Au-RL
+
+---
+
+# Note
+This is a modified and adapted version of the RL framework from (J. Chem. Inf. Model. 2023, 63, 12, 3731–3741).
