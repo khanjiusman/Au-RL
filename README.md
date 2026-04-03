@@ -1,4 +1,4 @@
-This repository contains code that is an adapted and modified implementation of the Deep Reinforcement Learning (DRL) framework originally developed in:
+This repository contains code that is an adapted and modified implementation of the RL_NP framework originally developed in:
 
 J. Chem. Inf. Model. 2023, 63, 12, 3731–3741.
 
