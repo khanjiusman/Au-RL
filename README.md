@@ -1,3 +1,9 @@
+This repository contains code that is an adapted and modified implementation of the Deep Reinforcement Learning (DRL) framework originally developed in:
+
+J. Chem. Inf. Model. 2023, 63, 12, 3731–3741.
+
+We gratefully acknowledge the original authors for developing the methodology, which has been extended and customized in this project for application to gold nanoclusters.
+
 To run a default 13 gold atom experiment, use the following command:
 
     ```
